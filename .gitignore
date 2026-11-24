@@ -1,0 +1,6 @@
+kit/
+competition.json
+requirements.json
+transcripts.tar.gz
+__pycache__/
+.output/

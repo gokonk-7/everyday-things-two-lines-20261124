@@ -1,0 +1,2 @@
+A queue is a caterpillar made of people, shuffling forward one wiggle at a time whenever the person at the very front takes a step.
+The caterpillar shows how the whole line moves as one wave starting from the front, but it leaves out that a person can step out of line, cut in halfway, or overtake — a real caterpillar never lets one of its legs wander off on its own.
